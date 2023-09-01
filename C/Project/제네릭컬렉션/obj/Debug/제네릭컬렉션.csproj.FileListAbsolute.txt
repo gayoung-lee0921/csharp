@@ -1,0 +1,8 @@
+D:\C\Project\제네릭컬렉션\bin\Debug\제네릭컬렉션.exe.config
+D:\C\Project\제네릭컬렉션\bin\Debug\제네릭컬렉션.exe
+D:\C\Project\제네릭컬렉션\bin\Debug\제네릭컬렉션.pdb
+D:\C\Project\제네릭컬렉션\obj\Debug\제네릭컬렉션.csproj.AssemblyReference.cache
+D:\C\Project\제네릭컬렉션\obj\Debug\제네릭컬렉션.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\제네릭컬렉션\obj\Debug\제네릭컬렉션.csproj.CoreCompileInputs.cache
+D:\C\Project\제네릭컬렉션\obj\Debug\제네릭컬렉션.exe
+D:\C\Project\제네릭컬렉션\obj\Debug\제네릭컬렉션.pdb

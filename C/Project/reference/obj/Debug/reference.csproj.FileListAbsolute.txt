@@ -1,0 +1,8 @@
+D:\C\Project\reference\bin\Debug\reference.exe.config
+D:\C\Project\reference\bin\Debug\reference.exe
+D:\C\Project\reference\bin\Debug\reference.pdb
+D:\C\Project\reference\obj\Debug\reference.csproj.AssemblyReference.cache
+D:\C\Project\reference\obj\Debug\reference.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\reference\obj\Debug\reference.csproj.CoreCompileInputs.cache
+D:\C\Project\reference\obj\Debug\reference.exe
+D:\C\Project\reference\obj\Debug\reference.pdb

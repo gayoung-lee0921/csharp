@@ -1,0 +1,8 @@
+D:\C\Project\loop\bin\Debug\loop.exe.config
+D:\C\Project\loop\bin\Debug\loop.exe
+D:\C\Project\loop\bin\Debug\loop.pdb
+D:\C\Project\loop\obj\Debug\loop.csproj.AssemblyReference.cache
+D:\C\Project\loop\obj\Debug\loop.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\loop\obj\Debug\loop.csproj.CoreCompileInputs.cache
+D:\C\Project\loop\obj\Debug\loop.exe
+D:\C\Project\loop\obj\Debug\loop.pdb

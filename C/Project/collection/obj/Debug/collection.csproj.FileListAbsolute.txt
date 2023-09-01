@@ -1,0 +1,8 @@
+D:\C\Project\collection\obj\Debug\collection.csproj.AssemblyReference.cache
+D:\C\Project\collection\obj\Debug\collection.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\collection\obj\Debug\collection.csproj.CoreCompileInputs.cache
+D:\C\Project\collection\bin\Debug\collection.exe.config
+D:\C\Project\collection\bin\Debug\collection.exe
+D:\C\Project\collection\bin\Debug\collection.pdb
+D:\C\Project\collection\obj\Debug\collection.exe
+D:\C\Project\collection\obj\Debug\collection.pdb

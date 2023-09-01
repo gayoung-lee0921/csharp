@@ -1,0 +1,11 @@
+D:\csharp_kosta\imageClass\bin\Debug\imageClass.exe.config
+D:\csharp_kosta\imageClass\bin\Debug\imageClass.exe
+D:\csharp_kosta\imageClass\bin\Debug\imageClass.pdb
+D:\csharp_kosta\imageClass\obj\Debug\imageClass.csproj.AssemblyReference.cache
+D:\csharp_kosta\imageClass\obj\Debug\imageClass.csproj.SuggestedBindingRedirects.cache
+D:\csharp_kosta\imageClass\obj\Debug\imageClass.Form1.resources
+D:\csharp_kosta\imageClass\obj\Debug\imageClass.Properties.Resources.resources
+D:\csharp_kosta\imageClass\obj\Debug\imageClass.csproj.GenerateResource.cache
+D:\csharp_kosta\imageClass\obj\Debug\imageClass.csproj.CoreCompileInputs.cache
+D:\csharp_kosta\imageClass\obj\Debug\imageClass.exe
+D:\csharp_kosta\imageClass\obj\Debug\imageClass.pdb

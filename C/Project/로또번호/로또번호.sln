@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "로또번호", "로또번호.csproj", "{1D86A15A-8EA4-4EF1-97F8-1A7F299C2CFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D86A15A-8EA4-4EF1-97F8-1A7F299C2CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D86A15A-8EA4-4EF1-97F8-1A7F299C2CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D86A15A-8EA4-4EF1-97F8-1A7F299C2CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D86A15A-8EA4-4EF1-97F8-1A7F299C2CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75F84BFF-8FC8-47D8-8753-96735AB119D8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "웹브라우저", "웹브라우저.csproj", "{50A80708-C9B0-46F7-8453-157CBADAC88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50A80708-C9B0-46F7-8453-157CBADAC88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A80708-C9B0-46F7-8453-157CBADAC88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A80708-C9B0-46F7-8453-157CBADAC88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A80708-C9B0-46F7-8453-157CBADAC88D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BECDA587-2B01-4242-A37E-BB8919FE9F5F}
+	EndGlobalSection
+EndGlobal

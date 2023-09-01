@@ -1,0 +1,8 @@
+D:\C\Project\FormEvent\bin\Debug\FormEvent.exe.config
+D:\C\Project\FormEvent\bin\Debug\FormEvent.exe
+D:\C\Project\FormEvent\bin\Debug\FormEvent.pdb
+D:\C\Project\FormEvent\obj\Debug\FormEvent.csproj.AssemblyReference.cache
+D:\C\Project\FormEvent\obj\Debug\FormEvent.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\FormEvent\obj\Debug\FormEvent.csproj.CoreCompileInputs.cache
+D:\C\Project\FormEvent\obj\Debug\FormEvent.exe
+D:\C\Project\FormEvent\obj\Debug\FormEvent.pdb

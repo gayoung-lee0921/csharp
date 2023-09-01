@@ -1,0 +1,8 @@
+D:\C\Project\abstractClass\bin\Debug\abstractClass.exe.config
+D:\C\Project\abstractClass\bin\Debug\abstractClass.exe
+D:\C\Project\abstractClass\bin\Debug\abstractClass.pdb
+D:\C\Project\abstractClass\obj\Debug\abstractClass.csproj.AssemblyReference.cache
+D:\C\Project\abstractClass\obj\Debug\abstractClass.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\abstractClass\obj\Debug\abstractClass.csproj.CoreCompileInputs.cache
+D:\C\Project\abstractClass\obj\Debug\abstractClass.exe
+D:\C\Project\abstractClass\obj\Debug\abstractClass.pdb

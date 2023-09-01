@@ -1,0 +1,11 @@
+D:\csharp_kosta\minipainting\bin\Debug\minipainting.exe.config
+D:\csharp_kosta\minipainting\bin\Debug\minipainting.exe
+D:\csharp_kosta\minipainting\bin\Debug\minipainting.pdb
+D:\csharp_kosta\minipainting\obj\Debug\minipainting.csproj.AssemblyReference.cache
+D:\csharp_kosta\minipainting\obj\Debug\minipainting.csproj.SuggestedBindingRedirects.cache
+D:\csharp_kosta\minipainting\obj\Debug\minipainting.Form1.resources
+D:\csharp_kosta\minipainting\obj\Debug\minipainting.Properties.Resources.resources
+D:\csharp_kosta\minipainting\obj\Debug\minipainting.csproj.GenerateResource.cache
+D:\csharp_kosta\minipainting\obj\Debug\minipainting.csproj.CoreCompileInputs.cache
+D:\csharp_kosta\minipainting\obj\Debug\minipainting.exe
+D:\csharp_kosta\minipainting\obj\Debug\minipainting.pdb

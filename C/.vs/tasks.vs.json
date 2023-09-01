@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-연습",
+      "appliesTo": "Project/연습/",
+      "type": "launch"
+    }
+  ]
+}

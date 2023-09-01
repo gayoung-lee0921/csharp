@@ -1,0 +1,8 @@
+D:\C\Project\예외처리2\obj\Debug\예외처리2.csproj.AssemblyReference.cache
+D:\C\Project\예외처리2\obj\Debug\예외처리2.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\예외처리2\obj\Debug\예외처리2.csproj.CoreCompileInputs.cache
+D:\C\Project\예외처리2\bin\Debug\예외처리2.exe.config
+D:\C\Project\예외처리2\bin\Debug\예외처리2.exe
+D:\C\Project\예외처리2\bin\Debug\예외처리2.pdb
+D:\C\Project\예외처리2\obj\Debug\예외처리2.exe
+D:\C\Project\예외처리2\obj\Debug\예외처리2.pdb

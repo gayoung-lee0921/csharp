@@ -1,0 +1,8 @@
+D:\C\Project\람다식\bin\Debug\람다식.exe.config
+D:\C\Project\람다식\bin\Debug\람다식.exe
+D:\C\Project\람다식\bin\Debug\람다식.pdb
+D:\C\Project\람다식\obj\Debug\람다식.csproj.AssemblyReference.cache
+D:\C\Project\람다식\obj\Debug\람다식.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\람다식\obj\Debug\람다식.csproj.CoreCompileInputs.cache
+D:\C\Project\람다식\obj\Debug\람다식.exe
+D:\C\Project\람다식\obj\Debug\람다식.pdb

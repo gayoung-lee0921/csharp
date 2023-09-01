@@ -1,0 +1,8 @@
+D:\C\Project\ConsoleEvent\bin\Debug\ConsoleEvent.exe.config
+D:\C\Project\ConsoleEvent\bin\Debug\ConsoleEvent.exe
+D:\C\Project\ConsoleEvent\bin\Debug\ConsoleEvent.pdb
+D:\C\Project\ConsoleEvent\obj\Debug\ConsoleEvent.csproj.AssemblyReference.cache
+D:\C\Project\ConsoleEvent\obj\Debug\ConsoleEvent.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\ConsoleEvent\obj\Debug\ConsoleEvent.csproj.CoreCompileInputs.cache
+D:\C\Project\ConsoleEvent\obj\Debug\ConsoleEvent.exe
+D:\C\Project\ConsoleEvent\obj\Debug\ConsoleEvent.pdb

@@ -1,0 +1,11 @@
+D:\C\Project\loopform\bin\Debug\loopform.exe.config
+D:\C\Project\loopform\bin\Debug\loopform.exe
+D:\C\Project\loopform\bin\Debug\loopform.pdb
+D:\C\Project\loopform\obj\Debug\loopform.csproj.AssemblyReference.cache
+D:\C\Project\loopform\obj\Debug\loopform.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\loopform\obj\Debug\loopform.Form1.resources
+D:\C\Project\loopform\obj\Debug\loopform.Properties.Resources.resources
+D:\C\Project\loopform\obj\Debug\loopform.csproj.GenerateResource.cache
+D:\C\Project\loopform\obj\Debug\loopform.csproj.CoreCompileInputs.cache
+D:\C\Project\loopform\obj\Debug\loopform.exe
+D:\C\Project\loopform\obj\Debug\loopform.pdb

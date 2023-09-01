@@ -1,0 +1,11 @@
+D:\C\Project\conditional\bin\Debug\conditional.exe.config
+D:\C\Project\conditional\bin\Debug\conditional.exe
+D:\C\Project\conditional\bin\Debug\conditional.pdb
+D:\C\Project\conditional\obj\Debug\conditional.csproj.AssemblyReference.cache
+D:\C\Project\conditional\obj\Debug\conditional.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\conditional\obj\Debug\conditional.Form1.resources
+D:\C\Project\conditional\obj\Debug\conditional.Properties.Resources.resources
+D:\C\Project\conditional\obj\Debug\conditional.csproj.GenerateResource.cache
+D:\C\Project\conditional\obj\Debug\conditional.csproj.CoreCompileInputs.cache
+D:\C\Project\conditional\obj\Debug\conditional.exe
+D:\C\Project\conditional\obj\Debug\conditional.pdb

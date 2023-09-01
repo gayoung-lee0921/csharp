@@ -1,0 +1,11 @@
+D:\C\Project\합구하기\bin\Debug\합구하기.exe.config
+D:\C\Project\합구하기\bin\Debug\합구하기.exe
+D:\C\Project\합구하기\bin\Debug\합구하기.pdb
+D:\C\Project\합구하기\obj\Debug\합구하기.csproj.AssemblyReference.cache
+D:\C\Project\합구하기\obj\Debug\합구하기.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\합구하기\obj\Debug\합구하기.Form1.resources
+D:\C\Project\합구하기\obj\Debug\합구하기.Properties.Resources.resources
+D:\C\Project\합구하기\obj\Debug\합구하기.csproj.GenerateResource.cache
+D:\C\Project\합구하기\obj\Debug\합구하기.csproj.CoreCompileInputs.cache
+D:\C\Project\합구하기\obj\Debug\합구하기.exe
+D:\C\Project\합구하기\obj\Debug\합구하기.pdb

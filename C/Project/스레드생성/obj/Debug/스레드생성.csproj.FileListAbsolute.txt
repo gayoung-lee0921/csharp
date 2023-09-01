@@ -1,0 +1,8 @@
+D:\C\Project\스레드생성\bin\Debug\스레드생성.exe.config
+D:\C\Project\스레드생성\bin\Debug\스레드생성.exe
+D:\C\Project\스레드생성\bin\Debug\스레드생성.pdb
+D:\C\Project\스레드생성\obj\Debug\스레드생성.csproj.AssemblyReference.cache
+D:\C\Project\스레드생성\obj\Debug\스레드생성.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\스레드생성\obj\Debug\스레드생성.csproj.CoreCompileInputs.cache
+D:\C\Project\스레드생성\obj\Debug\스레드생성.exe
+D:\C\Project\스레드생성\obj\Debug\스레드생성.pdb

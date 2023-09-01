@@ -1,0 +1,8 @@
+D:\C\Project\archive\bin\Debug\archive.exe.config
+D:\C\Project\archive\bin\Debug\archive.exe
+D:\C\Project\archive\bin\Debug\archive.pdb
+D:\C\Project\archive\obj\Debug\archive.csproj.AssemblyReference.cache
+D:\C\Project\archive\obj\Debug\archive.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\archive\obj\Debug\archive.csproj.CoreCompileInputs.cache
+D:\C\Project\archive\obj\Debug\archive.exe
+D:\C\Project\archive\obj\Debug\archive.pdb

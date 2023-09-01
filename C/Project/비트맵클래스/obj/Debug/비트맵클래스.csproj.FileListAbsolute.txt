@@ -1,0 +1,11 @@
+D:\csharp_kosta\비트맵클래스\bin\Debug\비트맵클래스.exe.config
+D:\csharp_kosta\비트맵클래스\bin\Debug\비트맵클래스.exe
+D:\csharp_kosta\비트맵클래스\bin\Debug\비트맵클래스.pdb
+D:\csharp_kosta\비트맵클래스\obj\Debug\비트맵클래스.csproj.AssemblyReference.cache
+D:\csharp_kosta\비트맵클래스\obj\Debug\비트맵클래스.csproj.SuggestedBindingRedirects.cache
+D:\csharp_kosta\비트맵클래스\obj\Debug\비트맵클래스.Form1.resources
+D:\csharp_kosta\비트맵클래스\obj\Debug\비트맵클래스.Properties.Resources.resources
+D:\csharp_kosta\비트맵클래스\obj\Debug\비트맵클래스.csproj.GenerateResource.cache
+D:\csharp_kosta\비트맵클래스\obj\Debug\비트맵클래스.csproj.CoreCompileInputs.cache
+D:\csharp_kosta\비트맵클래스\obj\Debug\비트맵클래스.exe
+D:\csharp_kosta\비트맵클래스\obj\Debug\비트맵클래스.pdb

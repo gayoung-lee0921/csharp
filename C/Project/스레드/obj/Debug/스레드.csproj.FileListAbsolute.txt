@@ -1,0 +1,11 @@
+D:\C\Project\스레드\bin\Debug\스레드.exe.config
+D:\C\Project\스레드\bin\Debug\스레드.exe
+D:\C\Project\스레드\bin\Debug\스레드.pdb
+D:\C\Project\스레드\obj\Debug\스레드.csproj.AssemblyReference.cache
+D:\C\Project\스레드\obj\Debug\스레드.csproj.SuggestedBindingRedirects.cache
+D:\C\Project\스레드\obj\Debug\스레드.Form1.resources
+D:\C\Project\스레드\obj\Debug\스레드.Properties.Resources.resources
+D:\C\Project\스레드\obj\Debug\스레드.csproj.GenerateResource.cache
+D:\C\Project\스레드\obj\Debug\스레드.csproj.CoreCompileInputs.cache
+D:\C\Project\스레드\obj\Debug\스레드.exe
+D:\C\Project\스레드\obj\Debug\스레드.pdb
